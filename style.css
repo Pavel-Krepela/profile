@@ -57,7 +57,7 @@ i:hover {
 }
 
 body {
-  background-image: url("/images/background.jpeg");
+  background-image: url("https://github.com/Pavel-Krepela/profile/blob/master/images/background.jpeg");
   background-attachment: fixed;
   background-size: cover; /* Cover the entire page */
   background-position: center; /* Center the background image */
