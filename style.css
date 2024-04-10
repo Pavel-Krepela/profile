@@ -1,0 +1,65 @@
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  text-shadow: 1px 1px 1px #908d8d;
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+  text-shadow: 1px 1px 1px #908d8d;
+}
+
+i {
+  color: rgb(215, 22, 22);
+  font-size: 40px;
+}
+
+i:hover {
+  color: rgb(65, 5, 5);
+  font-size: 40px;
+}
+
+.avatar-resize {
+  width: 100px;
+  height: auto;
+  border-radius: 50%;
+}
+
+.card-white {
+  background-color: rgba(255, 255, 255, 0.9);
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  text-align: center;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.btn-blue {
+  background-color: rgb(16, 174, 50);
+  color: white;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.list-inline li {
+  display: inline;
+}
+
+.btn-blue:hover {
+  background-color: rgb(9, 91, 49);
+}
+
+.container {
+  width: 50%;
+  margin: 0 auto;
+}
+
+body {
+  background-image: url("/images/background.jpeg");
+  background-attachment: fixed;
+  background-size: cover; /* Cover the entire page */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+}
